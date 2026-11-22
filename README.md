@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-cover-dark.png" alt="Vinay Pathak — Design × Technology. I turn ideas into working experiences. AI, art direction, motion and interactive systems." width="100%">
+  <img src="assets/profile-cover-github-v3.png" alt="Vinay Pathak — Design × Technology. I turn ideas into working experiences. AI, art direction, motion and interactive systems." width="100%">
 </p>
 
 # AI builder × creative designer
@@ -19,7 +19,7 @@ My practice spans brand, content, interfaces and design systems. AI is part of h
 ### 01 / ZOLA — a world for personal AI
 
 <a href="https://11vinaypathak-sys.github.io/zola-showoff/world.html">
-  <img src="assets/zola-cover-dark.png" alt="ZOLA editorial cover: a glass eye and five connected orbital domains" width="100%">
+  <img src="assets/zola-cover-github-v3.png" alt="ZOLA editorial cover: a glass eye and five connected orbital domains" width="100%">
 </a>
 
 An exploration of how personal information, rules and AI can come together in one interface. Five domains surround a central eye, opening into individual instruments.
@@ -33,7 +33,7 @@ An exploration of how personal information, rules and AI can come together in on
 ### 02 / Klack — make typing feel different
 
 <a href="https://11vinaypathak-sys.github.io/klack/">
-  <img src="assets/klack-cover-dark.png" alt="Klack editorial cover: exploded switches and a soundwave" width="100%">
+  <img src="assets/klack-cover-github-v3.png" alt="Klack editorial cover: exploded switches and a soundwave" width="100%">
 </a>
 
 A macOS menu-bar app that adds mechanical-keyboard sounds to typing, with sound packs and a live synthesis mixer. A small utility treated as a complete sensory experience.
@@ -47,7 +47,7 @@ A macOS menu-bar app that adds mechanical-keyboard sounds to typing, with sound 
 ### 03 / Cinematic Memory Reel — craft, made reusable
 
 <a href="https://github.com/11vinaypathak-sys/cinematic-memory-reel-skill">
-  <img src="assets/memory-cover-dark.png" alt="Memory Reel editorial cover: photographic film frames and warm projector light" width="100%">
+  <img src="assets/memory-cover-github-v3.png" alt="Memory Reel editorial cover: photographic film frames and warm projector light" width="100%">
 </a>
 
 A reusable AI editing workflow for shaping footage and photographs into short films: story, pacing, colour, scene-matched sound and checks on the actual export.
