@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vinay-cover.png" alt="Vinay Pathak — Design × Technology. I turn ideas into working experiences. AI, art direction, motion and interactive systems." width="100%">
+  <img src="assets/profile-cover-dark.png" alt="Vinay Pathak — Design × Technology. I turn ideas into working experiences. AI, art direction, motion and interactive systems." width="100%">
 </p>
 
 # AI builder × creative designer
@@ -14,10 +14,12 @@ My practice spans brand, content, interfaces and design systems. AI is part of h
 
 ## Selected builds
 
+*AI-assisted editorial cover art. Follow the project links for actual interfaces, demos and source.*
+
 ### 01 / ZOLA — a world for personal AI
 
 <a href="https://11vinaypathak-sys.github.io/zola-showoff/world.html">
-  <img src="https://raw.githubusercontent.com/11vinaypathak-sys/zola-showoff/main/docs/hero/overview.jpg" alt="ZOLA's interactive orbital world, connecting five domains around a central eye" width="100%">
+  <img src="assets/zola-cover-dark.png" alt="ZOLA editorial cover: a glass eye and five connected orbital domains" width="100%">
 </a>
 
 An exploration of how personal information, rules and AI can come together in one interface. Five domains surround a central eye, opening into individual instruments.
@@ -26,12 +28,12 @@ An exploration of how personal information, rules and AI can come together in on
 
 `Interactive design` · `Three.js` · `Python` · `AI workflows`
 
-**[Enter the world ↗](https://11vinaypathak-sys.github.io/zola-showoff/world.html)** · [Explore the code](https://github.com/11vinaypathak-sys/zola-showoff)
+**[Enter the world ↗](https://11vinaypathak-sys.github.io/zola-showoff/world.html)** · [Explore the code](https://github.com/11vinaypathak-sys/zola-showoff) · [Interface screenshot](https://github.com/11vinaypathak-sys/zola-showoff/blob/main/docs/hero/overview.jpg)
 
 ### 02 / Klack — make typing feel different
 
 <a href="https://11vinaypathak-sys.github.io/klack/">
-  <img src="https://raw.githubusercontent.com/11vinaypathak-sys/klack/main/docs/images/panel.png" alt="Klack's custom macOS keyboard-sound control panel" width="720">
+  <img src="assets/klack-cover-dark.png" alt="Klack editorial cover: exploded switches and a soundwave" width="100%">
 </a>
 
 A macOS menu-bar app that adds mechanical-keyboard sounds to typing, with sound packs and a live synthesis mixer. A small utility treated as a complete sensory experience.
@@ -40,9 +42,13 @@ A macOS menu-bar app that adds mechanical-keyboard sounds to typing, with sound 
 
 `Native app` · `Sound design` · `Swift` · `Creative coding`
 
-**[See and hear it ↗](https://11vinaypathak-sys.github.io/klack/)** · [Explore the code](https://github.com/11vinaypathak-sys/klack)
+**[See and hear it ↗](https://11vinaypathak-sys.github.io/klack/)** · [Explore the code](https://github.com/11vinaypathak-sys/klack) · [App screenshot](https://github.com/11vinaypathak-sys/klack/blob/main/docs/images/panel.png)
 
 ### 03 / Cinematic Memory Reel — craft, made reusable
+
+<a href="https://github.com/11vinaypathak-sys/cinematic-memory-reel-skill">
+  <img src="assets/memory-cover-dark.png" alt="Memory Reel editorial cover: photographic film frames and warm projector light" width="100%">
+</a>
 
 A reusable AI editing workflow for shaping footage and photographs into short films: story, pacing, colour, scene-matched sound and checks on the actual export.
 
