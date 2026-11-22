@@ -1,29 +1,73 @@
 <p align="center">
-  <a href="https://11vinaypathak-sys.github.io/zola-showoff/world.html">
-    <img src="https://raw.githubusercontent.com/11vinaypathak-sys/portfolio/main/zola/overview.jpg" alt="ZOLA: five domain worlds in orbit around one eye" width="100%">
-  </a>
+  <img src="assets/vinay-cover.png" alt="Vinay Pathak — Design × Technology. I turn ideas into working experiences. AI, art direction, motion and interactive systems." width="100%">
 </p>
 
-# Vinay Pathak · creative technologist
+# AI builder × creative designer
 
-I take a problem from concept to a shipped thing: visual system, front end in code, Python engines, applied AI. Six years across brand, content, interface and design systems. The last two building with generative AI and code every day (Claude Code, Three.js, Remotion, Blender pipelines).
+I'm **Vinay Pathak**. I combine art direction, motion, 3D and code to turn ideas into working experiences—from expressive websites and films to small tools that make everyday life more interesting.
 
-**Open to:** AI creative technologist and design engineer roles, founding designer seats, in-house design systems work. Delhi NCR, remote, or Amsterdam.
+My practice spans brand, content, interfaces and design systems. AI is part of how I explore and build; the creative direction, design decisions and care for the final experience are mine.
 
-## Work you can open right now
+**[Explore my portfolio ↗](https://11vinaypathak-sys.github.io/portfolio/)** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/1vinaypathak) &nbsp; · &nbsp; [Behance](https://www.behance.net/1vinaypathak)
 
-| | Project | What it is | Open |
-|---|---|---|---|
-| 🪐 | **[ZOLA](https://github.com/11vinaypathak-sys/zola-showoff)** | A personal operating system. Five domains of a life in orbit around one core, on a deterministic decision engine with an AI shell that proposes and never decides. HTML, Three.js, Python. | [Live world](https://11vinaypathak-sys.github.io/zola-showoff/world.html) |
-| ⌨️ | **[Klack](https://github.com/11vinaypathak-sys/klack)** | A native macOS menu-bar app that plays mechanical-keyboard sound on every keystroke. Real-time synthesis, a live mixer, a faceplate drawn in Core Graphics. Swift. | [Type on the page to hear it](https://11vinaypathak-sys.github.io/klack/) |
-| 📖 | **[Portfolio](https://github.com/11vinaypathak-sys/portfolio)** | Case studies: ZOLA, an editorial report shown as a turning book, Klack, Ring. | [Portfolio](https://11vinaypathak-sys.github.io/portfolio/) |
+---
 
-## How I work
+## Selected builds
 
-- **Deterministic core, agentic shell.** Rules decide, the model proposes. Turn the agent off and the verdict does not move.
-- **Build the instrument first.** Every visual claim gets a render harness, every "it sounds softer" gets a measurement.
-- **Judge the work by what shipped.**
+### 01 / ZOLA — a world for personal AI
 
-## Find me
+<a href="https://11vinaypathak-sys.github.io/zola-showoff/world.html">
+  <img src="https://raw.githubusercontent.com/11vinaypathak-sys/zola-showoff/main/docs/hero/overview.jpg" alt="ZOLA's interactive orbital world, connecting five domains around a central eye" width="100%">
+</a>
 
-[Portfolio site](https://vinay-pathak-creative.netlify.app) · [LinkedIn](https://www.linkedin.com/in/1vinaypathak) · [Behance](https://www.behance.net/1vinaypathak)
+An exploration of how personal information, rules and AI can come together in one interface. Five domains surround a central eye, opening into individual instruments.
+
+**My focus:** product concept, visual identity, 3D interaction, interface design and AI-assisted implementation. The public showcase uses example data; the private local system is separate.
+
+`Interactive design` · `Three.js` · `Python` · `AI workflows`
+
+**[Enter the world ↗](https://11vinaypathak-sys.github.io/zola-showoff/world.html)** · [Explore the code](https://github.com/11vinaypathak-sys/zola-showoff)
+
+### 02 / Klack — make typing feel different
+
+<a href="https://11vinaypathak-sys.github.io/klack/">
+  <img src="https://raw.githubusercontent.com/11vinaypathak-sys/klack/main/docs/images/panel.png" alt="Klack's custom macOS keyboard-sound control panel" width="720">
+</a>
+
+A macOS menu-bar app that adds mechanical-keyboard sounds to typing, with sound packs and a live synthesis mixer. A small utility treated as a complete sensory experience.
+
+**My focus:** interface art direction, interaction and sound experience, developed with Claude. Source and a public demo are available; a signed installer is not currently published.
+
+`Native app` · `Sound design` · `Swift` · `Creative coding`
+
+**[See and hear it ↗](https://11vinaypathak-sys.github.io/klack/)** · [Explore the code](https://github.com/11vinaypathak-sys/klack)
+
+### 03 / Cinematic Memory Reel — craft, made reusable
+
+A reusable AI editing workflow for shaping footage and photographs into short films: story, pacing, colour, scene-matched sound and checks on the actual export.
+
+**My focus:** translating creative judgement into a practical skill, a pasteable workflow and local verification tools. Bring your own media and editing tools.
+
+`Motion & storytelling` · `AI skill design` · `Production workflow`
+
+**[Explore the workflow ↗](https://github.com/11vinaypathak-sys/cinematic-memory-reel-skill)** · [Try the prompt](https://github.com/11vinaypathak-sys/cinematic-memory-reel-skill/blob/main/PROMPT.md)
+
+---
+
+## The way I build
+
+**Start with a feeling.** What should someone understand, notice or enjoy?
+
+**Make it tangible.** Move between visual exploration, prototypes and working code.
+
+**Check the real thing.** Review the rendered image, the interaction, the sound and the exported file—not just the idea.
+
+My toolkit includes **Figma, Adobe Creative Cloud, Blender, Three.js, Python, Swift and AI-assisted development**. The project decides which tools belong.
+
+## Let's make something worth opening
+
+Interested in **AI designer, creative technologist and founding designer** opportunities—especially where visual craft and working prototypes matter together.
+
+Based in **Delhi NCR** · Open to India-based and India-eligible remote opportunities.
+
+[Portfolio](https://11vinaypathak-sys.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/1vinaypathak) · [Behance](https://www.behance.net/1vinaypathak)
