@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-cover-github-v3.png" alt="Vinay Pathak — Design × Technology. I turn ideas into working experiences. AI, art direction, motion and interactive systems." width="100%">
+  <img src="assets/profile-scanner-preview.gif" alt="Vinay Pathak — Design × Technology. I turn ideas into working experiences. AI, art direction, motion and interactive systems." width="100%">
 </p>
 
 # AI builder × creative designer
