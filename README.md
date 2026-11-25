@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://11vinaypathak-sys.github.io/portfolio/particle-portrait/">
-    <img src="assets/profile-particle-portrait.png" alt="Vinay Pathak — creative designer and AI builder. Particle portrait and name. Explore the portfolio and contact links." width="100%">
-  </a>
-</p>
-
 # AI builder × creative designer
 
 I'm **Vinay Pathak**. I combine art direction, motion, 3D and code to turn ideas into working experiences—from expressive websites and films to small tools that make everyday life more interesting.
