@@ -44,7 +44,11 @@ A macOS menu-bar app that adds mechanical-keyboard sounds to typing, with sound 
 
 **[See and hear it ↗](https://11vinaypathak-sys.github.io/klack/)** · [Explore the code](https://github.com/11vinaypathak-sys/klack) · [App screenshot](https://github.com/11vinaypathak-sys/klack/blob/main/docs/images/panel.png)
 
-### 03 / Cinematic Memory Reel — craft, made reusable
+## Creative workflow skills
+
+**[Beat-Synced AI Film](https://github.com/11vinaypathak-sys/beat-synced-ai-film-skill)** — A reusable workflow for storyboards, music timing, effects and After Effects delivery.
+
+### Cinematic Memory Reel — craft, made reusable
 
 <a href="https://github.com/11vinaypathak-sys/cinematic-memory-reel-skill">
   <img src="assets/memory-cover-github-v3.png" alt="Memory Reel editorial cover: photographic film frames and warm projector light" width="100%">
