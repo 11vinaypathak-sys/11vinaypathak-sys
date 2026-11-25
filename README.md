@@ -50,21 +50,21 @@ A macOS menu-bar app that adds mechanical-keyboard sounds to typing, with sound 
 
 ## Creative workflow skills
 
-**[Beat-Synced AI Film](https://github.com/11vinaypathak-sys/beat-synced-ai-film-skill)** — A reusable workflow for storyboards, music timing, effects and After Effects delivery.
+**[AI Music Video Maker](https://github.com/11vinaypathak-sys/ai-music-video-maker-skill)** — Turn an idea and music into AI-generated scenes, beat-synced edits and effects. [Try the prompt](https://github.com/11vinaypathak-sys/ai-music-video-maker-skill/blob/main/beat-synced-ai-film/PROMPT.md).
 
-### Cinematic Memory Reel — craft, made reusable
+### Travel Reel Editor — your clips, shaped into a film
 
-<a href="https://github.com/11vinaypathak-sys/cinematic-memory-reel-skill">
-  <img src="assets/memory-cover-github-v3.png" alt="Memory Reel editorial cover: photographic film frames and warm projector light" width="100%">
+<a href="https://github.com/11vinaypathak-sys/travel-reel-editor-skill">
+  <img src="assets/memory-cover-github-v3.png" alt="Travel Reel Editor cover: photographic film frames and warm projector light" width="100%">
 </a>
 
-A reusable AI editing workflow for shaping footage and photographs into short films: story, pacing, colour, scene-matched sound and checks on the actual export.
+Turn your travel videos and photos into a cinematic Reel: select the moments, shape the story, match colour and sound, then check the actual export.
 
 **My focus:** translating creative judgement into a practical skill, a pasteable workflow and local verification tools. Bring your own media and editing tools.
 
 `Motion & storytelling` · `AI skill design` · `Production workflow`
 
-**[Explore the workflow ↗](https://github.com/11vinaypathak-sys/cinematic-memory-reel-skill)** · [Try the prompt](https://github.com/11vinaypathak-sys/cinematic-memory-reel-skill/blob/main/PROMPT.md)
+**[Explore the workflow ↗](https://github.com/11vinaypathak-sys/travel-reel-editor-skill)** · [Try the prompt](https://github.com/11vinaypathak-sys/travel-reel-editor-skill/blob/main/PROMPT.md)
 
 ---
 
