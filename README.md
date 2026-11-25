@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://11vinaypathak-sys.github.io/portfolio/particle-portrait/">
-    <img src="assets/profile-particle-portrait.gif" alt="Vinay Pathak — animated particle portrait and name with Matrix rain. Click to explore the mouse-reactive version and contact links." width="100%">
+    <img src="assets/profile-particle-portrait.png" alt="Vinay Pathak — creative designer and AI builder. Particle portrait and name. Explore the portfolio and contact links." width="100%">
   </a>
 </p>
 
