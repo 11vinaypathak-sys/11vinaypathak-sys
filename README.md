@@ -44,6 +44,10 @@ A macOS menu-bar app that adds mechanical-keyboard sounds to typing, with sound 
 
 **[See and hear it ↗](https://11vinaypathak-sys.github.io/klack/)** · [Explore the code](https://github.com/11vinaypathak-sys/klack) · [App screenshot](https://github.com/11vinaypathak-sys/klack/blob/main/docs/images/panel.png)
 
+## Product interaction and motion
+
+[**ShoeSwipe**](https://11vinaypathak-sys.github.io/portfolio/shoeswipe/) — Product imagery, interaction design and motion for a showroom experience built around quick visual choices.
+
 ## Creative workflow skills
 
 **[Beat-Synced AI Film](https://github.com/11vinaypathak-sys/beat-synced-ai-film-skill)** — A reusable workflow for storyboards, music timing, effects and After Effects delivery.
