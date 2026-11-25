@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/profile-identity-v2.svg" alt="Vinay Pathak — Design × Technology. I turn ideas into working experiences. AI, art direction, motion and interactive systems." width="100%">
+  <a href="https://11vinaypathak-sys.github.io/portfolio/particle-portrait/">
+    <img src="assets/profile-particle-portrait.gif" alt="Vinay Pathak — animated particle portrait and name with Matrix rain. Click to explore the mouse-reactive version and contact links." width="100%">
+  </a>
 </p>
 
 # AI builder × creative designer
